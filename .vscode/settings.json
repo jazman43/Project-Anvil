@@ -1,0 +1,17 @@
+{
+	"files.exclude": {
+		"/home/jared/Documents/Unreal Projects/Project_Anvil/.vscode": true,
+		"/home/jared/Documents/Unreal Projects/Project_Anvil/Content": true,
+		"/home/jared/Documents/Unreal Projects/Project_Anvil/DerivedDataCache": true,
+		"/home/jared/Documents/Unreal Projects/Project_Anvil/Intermediate": true,
+		"/home/jared/Documents/Unreal Projects/Project_Anvil/Saved": true
+	},
+	"files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "**/Intermediate/**": true, // <-- Important for Unreal
+    "**/Binaries/**": true,     // <-- Important for Unreal
+    "**/Saved/**": true         // <-- Important for Unreal
+}
+}

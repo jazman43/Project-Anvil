@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "Project_Anvil",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp",
+			"vadimcn.vscode-lldb",
+			"ms-vscode.mono-debug"
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{00044A20-08DD-736F-8738-EA28D835CB94}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Project_Anvil",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

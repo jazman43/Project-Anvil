@@ -1,0 +1,1985 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Project_Anvil Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Mac Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Mac DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Mac Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Mac Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Mac Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Mac Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Mac",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil IOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil IOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil IOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil IOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil IOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil IOS Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"IOS",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Linux Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Linux DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Linux Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Linux Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil Linux Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil Linux Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"Linux",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil LinuxAArch64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil LinuxAArch64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil LinuxAArch64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil LinuxAArch64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil LinuxAArch64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil LinuxAArch64 Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"LinuxAArch64",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil TVOS Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil TVOS DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil TVOS Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil TVOS Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil TVOS Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil TVOS Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"TVOS",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil XXX Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil XXX DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil XXX Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Shipping Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Shipping Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil XXX Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Shipping Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Shipping",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Test Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Test Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_Anvil XXX Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_Anvil XXX Test Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_Anvil",
+				"XXX",
+				"Test",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_AnvilEditor Linux Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_AnvilEditor Linux DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_AnvilEditor Linux Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Linux Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Linux",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac Debug Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac Debug Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_AnvilEditor Mac Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac Debug Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"Debug",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac DebugGame Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_AnvilEditor Mac DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac DebugGame Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"DebugGame",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac Development Build",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac Development Rebuild",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"Project_AnvilEditor Mac Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		},
+		{
+			"label": "Project_AnvilEditor Mac Development Clean",
+			"group": "build",
+			"command": "Engine/Build/BatchFiles/Linux/Build.sh",
+			"args": [
+				"Project_AnvilEditor",
+				"Mac",
+				"Development",
+				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"-waitmutex",
+				"-clean"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			}
+		}
+	]
+}
