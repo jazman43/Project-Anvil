@@ -4,16 +4,14 @@
             "name": "UnrealEngine",
             "includePath": [
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source",
-                "/home/jared/Documents/Unreal Projects/Project_Anvil/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Project_Anvil",
-                "/home/jared/Documents/Unreal Projects/Project_Anvil/Source",
+                "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Engine",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime",
+                "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/Engine/Classes",
+                "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/Engine/Public",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/TraceLog/Public",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/Core/Public",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/CoreUObject",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/CoreUObject/Public",
-                "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Engine",
-                "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/Engine/Classes",
-                "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/Engine/Public",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/NetCore",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/Net",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/Net/Core/Classes",
@@ -200,6 +198,8 @@
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/Experimental/GeometryCollectionSimulationCore/Public",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ClothingSystemRuntimeInterface",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public",
+                "/home/jared/Documents/Unreal Projects/Project_Anvil/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Project_Anvil",
+                "/home/jared/Documents/Unreal Projects/Project_Anvil/Source",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AugmentedReality",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/Runtime/AugmentedReality/Public",
                 "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Source/ThirdParty/PhysX3/PxShared/include",
@@ -382,15 +382,7 @@
     "WITH_SNDFILE_IO=1"],
             "compilerPath": "/usr/bin/clang",
             "cStandard": "c17",
-            "cppStandard": "c++17",
-            "browse": {
-                "path": [
-                    "${workspaceFolder}/Source" // <-- KEY CHANGE: Only browse your game's source
-                    //"${workspaceFolder}/Plugins" // <-- And any plugins you are developing
-                ],
-                "limitSymbolsToIncludedHeaders": true,
-                "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db"
-            }
+            "cppStandard": "c++17"
         }
     ],
     "version": 4

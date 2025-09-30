@@ -9,20 +9,28 @@
 /**
  * 
  */
-UENUM(BlueprintType)
-enum class EPlayerControlMode : uint8
-{
-	ThirdPerson UMETA(DisplayName="ThirdPerson"),
-	TopDown UMETA(DisplayName="TopDown")
-};
+
 
 UCLASS()
 class PROJECT_ANVIL_API ADwarfLord_PlayerController : public APlayerController
 {
 	GENERATED_BODY()
 public:
-	EPlayerControlMode currentControlMode;
 	
 	
+	ADwarfLord_PlayerController();
+
+protected:
+
+	virtual void SetupInputComponent() override;
+
+	void SwitchPawn();
+
+private:
+
+	UPROPERTY(EditAnywhere, Category="Pawn Switching")
+	TArray<TSubclassOf<APawn>> PawnClass;
+
+	int32 currentPawnIndex = 0;
 	
 };
