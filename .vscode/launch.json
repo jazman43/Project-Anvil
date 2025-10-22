@@ -5,100 +5,100 @@
 			"name": "Project_Anvil (Debug)",
 			"request": "launch",
 			"preLaunchTask": "Project_Anvil Linux Debug Build",
-			"program": "/home/jared/Documents/Unreal Projects/Project_Anvil/Binaries/Linux/Project_Anvil-Linux-Debug",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Binaries/Linux/Project_Anvil-Linux-Debug",
 			"args": [
 			],
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release",
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release",
 			"type": "lldb"
 		},
 		{
 			"name": "Project_Anvil (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "Project_Anvil Linux DebugGame Build",
-			"program": "/home/jared/Documents/Unreal Projects/Project_Anvil/Binaries/Linux/Project_Anvil-Linux-DebugGame",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Binaries/Linux/Project_Anvil-Linux-DebugGame",
 			"args": [
 			],
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release",
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release",
 			"type": "lldb"
 		},
 		{
 			"name": "Project_Anvil (Development)",
 			"request": "launch",
 			"preLaunchTask": "Project_Anvil Linux Development Build",
-			"program": "/home/jared/Documents/Unreal Projects/Project_Anvil/Binaries/Linux/Project_Anvil",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Binaries/Linux/Project_Anvil",
 			"args": [
 			],
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release",
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release",
 			"type": "lldb"
 		},
 		{
 			"name": "Project_Anvil (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "Project_Anvil Linux Shipping Build",
-			"program": "/home/jared/Documents/Unreal Projects/Project_Anvil/Binaries/Linux/Project_Anvil-Linux-Shipping",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Binaries/Linux/Project_Anvil-Linux-Shipping",
 			"args": [
 			],
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release",
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release",
 			"type": "lldb"
 		},
 		{
 			"name": "Project_Anvil (Test)",
 			"request": "launch",
 			"preLaunchTask": "Project_Anvil Linux Test Build",
-			"program": "/home/jared/Documents/Unreal Projects/Project_Anvil/Binaries/Linux/Project_Anvil-Linux-Test",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Binaries/Linux/Project_Anvil-Linux-Test",
 			"args": [
 			],
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release",
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release",
 			"type": "lldb"
 		},
 		{
 			"name": "Project_AnvilEditor (Debug)",
 			"request": "launch",
 			"preLaunchTask": "Project_AnvilEditor Linux Debug Build",
-			"program": "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Binaries/Linux/UE4Editor-Linux-Debug",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release/Engine/Binaries/Linux/UE4Editor-Linux-Debug",
 			"args": [
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject"
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject"
 			],
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release",
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release",
 			"type": "lldb"
 		},
 		{
 			"name": "Project_AnvilEditor (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "Project_AnvilEditor Linux DebugGame Build",
-			"program": "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Binaries/Linux/UE4Editor-Linux-DebugGame",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release/Engine/Binaries/Linux/UE4Editor-Linux-DebugGame",
 			"args": [
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject"
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject"
 			],
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release",
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release",
 			"type": "lldb"
 		},
 		{
 			"name": "Project_AnvilEditor (Development)",
 			"request": "launch",
 			"preLaunchTask": "Project_AnvilEditor Linux Development Build",
-			"program": "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Binaries/Linux/UE4Editor",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release/Engine/Binaries/Linux/UE4Editor",
 			"args": [
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject"
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject"
 			],
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release",
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release",
 			"type": "lldb"
 		},
 		{
 			"name": "Generate Project Files",
 			"type": "mono",
 			"request": "launch",
-			"program": "/home/jared/Unreal/UnrealEngine-4.25.4-release/Engine/Binaries/DotNET/UnrealBuildTool.exe",
+			"program": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release/Engine/Binaries/DotNET/UnrealBuildTool.exe",
 			"console": "internalConsole",
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject\"",
+				"-project=\"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject\"",
 				"-game",
 				"-engine"
 			],
 			"internalConsoleOptions": "openOnSessionStart",
-			"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+			"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 		}
 	]
 }

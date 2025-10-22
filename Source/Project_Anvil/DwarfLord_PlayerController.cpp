@@ -23,6 +23,8 @@ void ADwarfLord_PlayerController::SwitchPawn()
 {
     if(PawnClass.Num() == 0) return;
 
+    UE_LOG(LogTemp, Display, TEXT("Hello, Unreal Engine!"));
+    
     currentPawnIndex = (currentPawnIndex + 1) % PawnClass.Num();
 
     FVector location = GetPawn() ? GetPawn()->GetActorLocation() : FVector::ZeroVector;

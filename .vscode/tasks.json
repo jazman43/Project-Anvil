@@ -9,13 +9,13 @@
 				"Project_Anvil",
 				"Mac",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"Project_Anvil",
 				"Mac",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -35,7 +35,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -46,14 +46,14 @@
 				"Project_Anvil",
 				"Mac",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -64,13 +64,13 @@
 				"Project_Anvil",
 				"Mac",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"Project_Anvil",
 				"Mac",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -90,7 +90,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -101,14 +101,14 @@
 				"Project_Anvil",
 				"Mac",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -119,13 +119,13 @@
 				"Project_Anvil",
 				"Mac",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 				"Project_Anvil",
 				"Mac",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -145,7 +145,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -156,14 +156,14 @@
 				"Project_Anvil",
 				"Mac",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -174,13 +174,13 @@
 				"Project_Anvil",
 				"Mac",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -191,7 +191,7 @@
 				"Project_Anvil",
 				"Mac",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -200,7 +200,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -211,14 +211,14 @@
 				"Project_Anvil",
 				"Mac",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -229,13 +229,13 @@
 				"Project_Anvil",
 				"Mac",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -246,7 +246,7 @@
 				"Project_Anvil",
 				"Mac",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -255,7 +255,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -266,14 +266,14 @@
 				"Project_Anvil",
 				"Mac",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -284,13 +284,13 @@
 				"Project_Anvil",
 				"IOS",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 				"Project_Anvil",
 				"IOS",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -310,7 +310,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -321,14 +321,14 @@
 				"Project_Anvil",
 				"IOS",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -339,13 +339,13 @@
 				"Project_Anvil",
 				"IOS",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 				"Project_Anvil",
 				"IOS",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -365,7 +365,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -376,14 +376,14 @@
 				"Project_Anvil",
 				"IOS",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -394,13 +394,13 @@
 				"Project_Anvil",
 				"IOS",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -411,7 +411,7 @@
 				"Project_Anvil",
 				"IOS",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -420,7 +420,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -431,14 +431,14 @@
 				"Project_Anvil",
 				"IOS",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -449,13 +449,13 @@
 				"Project_Anvil",
 				"IOS",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -466,7 +466,7 @@
 				"Project_Anvil",
 				"IOS",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -475,7 +475,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -486,14 +486,14 @@
 				"Project_Anvil",
 				"IOS",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -504,13 +504,13 @@
 				"Project_Anvil",
 				"IOS",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -521,7 +521,7 @@
 				"Project_Anvil",
 				"IOS",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -530,7 +530,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -541,14 +541,14 @@
 				"Project_Anvil",
 				"IOS",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -559,13 +559,13 @@
 				"Project_Anvil",
 				"Linux",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -576,7 +576,7 @@
 				"Project_Anvil",
 				"Linux",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -585,7 +585,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -596,14 +596,14 @@
 				"Project_Anvil",
 				"Linux",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -614,13 +614,13 @@
 				"Project_Anvil",
 				"Linux",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -631,7 +631,7 @@
 				"Project_Anvil",
 				"Linux",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -640,7 +640,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -651,14 +651,14 @@
 				"Project_Anvil",
 				"Linux",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -669,13 +669,13 @@
 				"Project_Anvil",
 				"Linux",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -686,7 +686,7 @@
 				"Project_Anvil",
 				"Linux",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -695,7 +695,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -706,14 +706,14 @@
 				"Project_Anvil",
 				"Linux",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -724,13 +724,13 @@
 				"Project_Anvil",
 				"Linux",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -741,7 +741,7 @@
 				"Project_Anvil",
 				"Linux",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -750,7 +750,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -761,14 +761,14 @@
 				"Project_Anvil",
 				"Linux",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -779,13 +779,13 @@
 				"Project_Anvil",
 				"Linux",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -796,7 +796,7 @@
 				"Project_Anvil",
 				"Linux",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -805,7 +805,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -816,14 +816,14 @@
 				"Project_Anvil",
 				"Linux",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -834,13 +834,13 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -851,7 +851,7 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -860,7 +860,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -871,14 +871,14 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -889,13 +889,13 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -906,7 +906,7 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -915,7 +915,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -926,14 +926,14 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -944,13 +944,13 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -961,7 +961,7 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -970,7 +970,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -981,14 +981,14 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -999,13 +999,13 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1016,7 +1016,7 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1025,7 +1025,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1036,14 +1036,14 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1054,13 +1054,13 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1071,7 +1071,7 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1080,7 +1080,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1091,14 +1091,14 @@
 				"Project_Anvil",
 				"LinuxAArch64",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1109,13 +1109,13 @@
 				"Project_Anvil",
 				"TVOS",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1126,7 +1126,7 @@
 				"Project_Anvil",
 				"TVOS",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1135,7 +1135,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1146,14 +1146,14 @@
 				"Project_Anvil",
 				"TVOS",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1164,13 +1164,13 @@
 				"Project_Anvil",
 				"TVOS",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1181,7 +1181,7 @@
 				"Project_Anvil",
 				"TVOS",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1190,7 +1190,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1201,14 +1201,14 @@
 				"Project_Anvil",
 				"TVOS",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1219,13 +1219,13 @@
 				"Project_Anvil",
 				"TVOS",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1236,7 +1236,7 @@
 				"Project_Anvil",
 				"TVOS",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1245,7 +1245,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1256,14 +1256,14 @@
 				"Project_Anvil",
 				"TVOS",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1274,13 +1274,13 @@
 				"Project_Anvil",
 				"TVOS",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1291,7 +1291,7 @@
 				"Project_Anvil",
 				"TVOS",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1300,7 +1300,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1311,14 +1311,14 @@
 				"Project_Anvil",
 				"TVOS",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1329,13 +1329,13 @@
 				"Project_Anvil",
 				"TVOS",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1346,7 +1346,7 @@
 				"Project_Anvil",
 				"TVOS",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1355,7 +1355,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1366,14 +1366,14 @@
 				"Project_Anvil",
 				"TVOS",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1384,13 +1384,13 @@
 				"Project_Anvil",
 				"XXX",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1401,7 +1401,7 @@
 				"Project_Anvil",
 				"XXX",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1410,7 +1410,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1421,14 +1421,14 @@
 				"Project_Anvil",
 				"XXX",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1439,13 +1439,13 @@
 				"Project_Anvil",
 				"XXX",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1456,7 +1456,7 @@
 				"Project_Anvil",
 				"XXX",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1465,7 +1465,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1476,14 +1476,14 @@
 				"Project_Anvil",
 				"XXX",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1494,13 +1494,13 @@
 				"Project_Anvil",
 				"XXX",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1511,7 +1511,7 @@
 				"Project_Anvil",
 				"XXX",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1520,7 +1520,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1531,14 +1531,14 @@
 				"Project_Anvil",
 				"XXX",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1549,13 +1549,13 @@
 				"Project_Anvil",
 				"XXX",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1566,7 +1566,7 @@
 				"Project_Anvil",
 				"XXX",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1575,7 +1575,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1586,14 +1586,14 @@
 				"Project_Anvil",
 				"XXX",
 				"Shipping",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1604,13 +1604,13 @@
 				"Project_Anvil",
 				"XXX",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1621,7 +1621,7 @@
 				"Project_Anvil",
 				"XXX",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1630,7 +1630,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1641,14 +1641,14 @@
 				"Project_Anvil",
 				"XXX",
 				"Test",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1659,13 +1659,13 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1676,7 +1676,7 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1685,7 +1685,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1696,14 +1696,14 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1714,13 +1714,13 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1731,7 +1731,7 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1740,7 +1740,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1751,14 +1751,14 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1769,13 +1769,13 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1786,7 +1786,7 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1795,7 +1795,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1806,14 +1806,14 @@
 				"Project_AnvilEditor",
 				"Linux",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1824,13 +1824,13 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1841,7 +1841,7 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1850,7 +1850,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1861,14 +1861,14 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"Debug",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1879,13 +1879,13 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1896,7 +1896,7 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1905,7 +1905,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1916,14 +1916,14 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"DebugGame",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1934,13 +1934,13 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1951,7 +1951,7 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -1960,7 +1960,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		},
 		{
@@ -1971,14 +1971,14 @@
 				"Project_AnvilEditor",
 				"Mac",
 				"Development",
-				"/home/jared/Documents/Unreal Projects/Project_Anvil/Project_Anvil.uproject",
+				"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Project_Anvil.uproject",
 				"-waitmutex",
 				"-clean"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "/home/jared/Unreal/UnrealEngine-4.25.4-release"
+				"cwd": "/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/unreal_Engine/UnrealEngine-4.25.4-release"
 			}
 		}
 	]

@@ -1,11 +1,11 @@
 {
 	"files.exclude": {
-		"/home/jared/Documents/Unreal Projects/Project_Anvil/.git": true,
-		"/home/jared/Documents/Unreal Projects/Project_Anvil/.vscode": true,
-		"/home/jared/Documents/Unreal Projects/Project_Anvil/Content": true,
-		"/home/jared/Documents/Unreal Projects/Project_Anvil/DerivedDataCache": true,
-		"/home/jared/Documents/Unreal Projects/Project_Anvil/Intermediate": true,
-		"/home/jared/Documents/Unreal Projects/Project_Anvil/Project-Anvil": true,
-		"/home/jared/Documents/Unreal Projects/Project_Anvil/Saved": true
+		"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/.git": true,
+		"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/.kdev4": true,
+		"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/.vscode": true,
+		"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Content": true,
+		"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/DerivedDataCache": true,
+		"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Intermediate": true,
+		"/mnt/95c77047-fc78-4a40-889e-0b9085d4a262/Project_Anvil/Project-Anvil/Saved": true
 	}
 }
